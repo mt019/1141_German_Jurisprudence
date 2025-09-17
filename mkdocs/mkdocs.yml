@@ -17,6 +17,7 @@ theme:
     - navigation.expand
     - navigation.tracking
     - navigation.footer        # 產生頁腳的上一頁/下一頁
+    - content.tags
   font:
     text: Noto Serif CJK TC
     code: JetBrains Mono
@@ -37,6 +38,7 @@ plugins:
         as_update: updated
       categories:
         - keywords
+  - tags
 extra_css:
   - assets/extra.css   # 若有
 

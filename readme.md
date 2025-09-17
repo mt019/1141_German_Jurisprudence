@@ -72,6 +72,7 @@
 ## SEO 與內容維護建議
 - 全站描述、作者資訊與社群連結統一於 `mkdocs/mkdocs.yml` 管理，調整後建議重新部署。
 - 透過 Markdown 前置欄位 (`keywords`, `description`) 為重要頁面設定中英關鍵字，以利 RSS 與搜尋引擎擷取。
+- 若要啟用標籤索引，於每篇筆記的 YAML 前置欄位加入 `tags: ["關鍵字"]`，`mkdocs/My_Notes/tags.md` 會自動聚合。
 - 新增頁面時，可參考 `My_Notes/index.md` 的範例結構，保留導覽層級與語彙標註格式。
 - 若需要額外的 SEO 標籤，可在 `mkdocs/My_Notes/overrides/` 內新增對應模板。
 
