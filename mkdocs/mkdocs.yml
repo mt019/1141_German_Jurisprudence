@@ -1,0 +1,32 @@
+site_name: 1141 德文法學
+docs_dir: My_Notes
+
+
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.tracking
+    - navigation.footer        # 產生頁腳的上一頁/下一頁
+  font:
+    text: Noto Serif CJK TC
+    code: JetBrains Mono
+plugins:
+  - search
+  - awesome-pages
+  - exclude:
+      glob: ['_*/**', '*_.md']
+extra_css:
+  - assets/extra.css   # 若有
+
+extra_javascript:
+  - assets/keynav.js           # 我將放置的鍵盤導航腳本
+  - assets/extra.js
+
+# mkdocs.yml（加入 markdown_extensions）
+markdown_extensions:
+  - mdx_truly_sane_lists:
+      nested_indent: 2   # 允許第二層起用 2 個空白（nested item只能用2格縮排！！！嚴格！！！
