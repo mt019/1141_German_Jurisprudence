@@ -1,8 +1,10 @@
 site_name: 1141 德文法學
 docs_dir: My_Notes
 site_url: "https://mt019.github.io/1141_German_Jurisprudence/"
-site_description: "國立台灣大學 1141德文法學的課程筆記"
+site_description: "國立台灣大學 1141 德文法學課程筆記與德文法律詞彙解析"
 site_author: "張譯文老師"
+repo_url: "https://github.com/mt019/1141_German_Jurisprudence"
+repo_name: mt019/1141_German_Jurisprudence
 
 
 
@@ -23,6 +25,18 @@ plugins:
   - awesome-pages
   - exclude:
       glob: ['_*/**', '*_.md']
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      type: iso_date
+      fallback_to_build_date: true
+  - rss:
+      match_path: ".*"
+      date_from_meta:
+        as_creation: date
+        as_update: updated
+      categories:
+        - keywords
 extra_css:
   - assets/extra.css   # 若有
 
@@ -30,7 +44,21 @@ extra_javascript:
   - assets/keynav.js           # 我將放置的鍵盤導航腳本
   - assets/extra.js
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mt019/1141_German_Jurisprudence
+      name: GitHub
+    - icon: material/school
+      link: https://www.law.ntu.edu.tw/
+      name: 國立臺灣大學法律學院
+  meta:
+    keywords: "德文法學, 1141 德文法學, 國立台灣大學, NTU German Jurisprudence, 德國民法, 法律德文筆記"
+
 # mkdocs.yml（加入 markdown_extensions）
 markdown_extensions:
   - mdx_truly_sane_lists:
       nested_indent: 2   # 允許第二層起用 2 個空白（nested item只能用2格縮排！！！嚴格！！！
+  - meta
+  - toc:
+      permalink: true
