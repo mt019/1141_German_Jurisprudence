@@ -84,8 +84,8 @@
 // 在頂部導覽加入「一鍵學術連結」
 (function () {
   const links = [
-    { label: "DWDS", url: "https://www.dwds.de/", emoji: "" },
-    { label: "德語助手", url: "https://www.godic.net/", emoji: "📚" },
+    { label: "DWDS", url: "https://www.dwds.de/", emoji: "📘" },
+    { label: "德語助手", url: "https://www.godic.net/", emoji: "📙" },
     // { label: "裁判書查詢", url: "https://judgment.judicial.gov.tw/FJUD/default.aspx", emoji: "⚖️" }
   ];
 

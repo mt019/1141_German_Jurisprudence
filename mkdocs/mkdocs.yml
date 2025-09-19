@@ -38,7 +38,8 @@ plugins:
         as_update: updated
       categories:
         - keywords
-  - tags
+  - tags:
+      tags_file: tags.md
 extra_css:
   - assets/extra.css   # 若有
 
