@@ -1,0 +1,297 @@
+Rn. 09.1
+
+句子結構解析
+
+  句型類別：主句 + 不定式結構 + 副詞短語，祈使語氣（第一人稱複數：wir stellen ... zurück）
+  語態：主動語態（Aktivsatz）
+  語氣：建議性祈使（Stellen wir ... zurück）
+
+  語序模式（Satzmodus）
+    祈使句採 V1 結構：有限動詞 Stellen 置於句首，其後立即跟主語 wir，彰顯包容式建議（hortativer）。
+  句子框架（Satzklammer）
+    前括號：Stellen；後括號：可分前綴 zurück，形成可分動詞的框架。
+    中場（Mittelfeld）依序放入受詞、內容從句與狀語，動詞小品詞收尾使語氣收束。
+  核心成分配置
+    直接受詞（Akkusativobjekt）：die naheliegende Frage 緊接動詞後，用於標定暫緩之對象。
+    內容從句（warum ... sollte）：擔任受詞補語，說明該問題的內涵。
+    狀語：an dieser Stelle 置於句末，界定語篇位置（此刻、此處）。
+  內容從句內部結構
+    引導詞 warum 開啟疑問從句；主語 man 伴隨身分狀語 als Gesellschaft。
+      語意上表示「作為整個社會的人們」，將討論視角提升到集體層級，而非單一個體。
+    謂語群為三連動詞 haben wollen sollte，先呈現欲求 (haben wollen)，再以情態 sollen 限定義務色彩。
+    受詞 eine solche normativ unterdeterminierte Privatrechtsordnung 置於動詞群之前，形成從句內的 Akkusativ 焦點。
+  語用焦點
+    祈使語氣用於引導討論節奏，並非命令，而是建議暫緩深入探究，以利後續鋪陳。
+
+  核心主詞（Subjekt）：wir（第一人稱複數，我們）
+  謂語原形（Prädikat）：zurückstellen（可分動詞）
+    結構：zurück-（向後）+ stellen（放置）
+    搭配格：支配 Akkusativ（直接受詞）
+
+語法與詞彙解析
+
+#### 2.1 動詞解析
+
+動詞形式：stellen ... zurück；原形：zurückstellen；類型：可分動詞；意義：擱置、延後處理；格要求：Akk.；可分性：是；例句：Wir stellen die Diskussion zurück.（我們暫時擱置討論。）
+動詞形式：haben wollen sollte；原形：haben, wollen, sollen；類型：不定式結構（情態動詞連用）；意義：表「應該想要擁有」的推論性語氣；格要求：—；可分性：否；例句：Er sollte das Buch haben wollen.（他應該想要擁有這本書。）
+
+#### 2.2 名詞解析（變格與原形）
+
+變格形式：die Frage；原形（主格）：die Frage；性：陰性；數：單數；格：受格（Akk.）；解釋：問題
+變格形式：Gesellschaft；原形（主格）：die Gesellschaft；性：陰性；數：單數；格：主格（Nominativ，用於 als Gesellschaft）；解釋：社會
+變格形式：Privatrechtsordnung；原形（主格）：die Privatrechtsordnung；性：陰性；數：單數；格：受格（Akk.）；解釋：私法秩序
+
+#### 2.3 形容詞與副詞解析
+
+形容詞 / 副詞：naheliegend；原形：naheliegend；詞性：形容詞；語法功能：修飾 Frage；解釋：顯而易見的、合理的；例句：eine naheliegende Erklärung（顯而易見的解釋）
+形容詞 / 副詞：normativ；原形：normativ；詞性：形容詞；語法功能：修飾 unterdeterminierte；解釋：規範層面的；例句：normative Grundlage（規範基礎）
+形容詞 / 副詞：unterdeterminiert；原形：unterdeterminiert；詞性：形容詞；語法功能：修飾 Privatrechtsordnung；解釋：規範上不充分確定的；例句：eine unterdeterminierte Regelung（規範不明確的規定）
+形容詞 / 副詞：überhaupt；原形：überhaupt；詞性：副詞；語法功能：強調語氣，用於整句；解釋：根本、究竟；例句：Warum überhaupt?（為什麼根本要這樣？）
+
+Rn. 09.2
+
+句子結構解析
+
+  句型類別：主句 + 不定式從句 + 關係從句 + 名詞性補語結構
+  語態：主動語態
+  語氣：陳述語氣（Indikativ）
+  從屬句類型：目的從句 (darum, zu verstehen...), 關係從句 (die sich...stützt)
+  句法分層分析：
+
+  宏觀組織
+    兩個主句以冒號連接：前段提出理解任務，後段給出理由並引出核心概念。
+  主句 I：Zunächst geht es nur darum ...
+    語序與句框：V2 結構，前場為副詞 Zunächst，有限動詞 geht 位於第二位置，後括號為介詞組 darum。
+    Mittelfeld 內容：僅含副詞 nur，凸顯焦點在「zu-Verstehen」的目的。
+    Nachfeld：zu verstehen, warum ... 作為不定式組塊放於句後，承載主要命題。
+  zu-不定式結構
+    引導詞：zu verstehen 將目的功能語化。
+    內嵌主句：warum ... trifft 以疑問副詞 warum 引導。
+    核心命題：主語 gerade Dürigs Ausstrahlungskonstruktion + 謂語 trifft，強調該構造命中要點。
+    附加關係從句：die sich gezielt nur auf die Generalklauseln ... stützt 修飾 Ausstrahlungskonstruktion，於從句內形成 Satzklammer (stützt ... sich auf，可分動詞)。
+  主句 II：Gerade in dem ... liegt ... die Ernstnahme ...
+    語序：介詞短語 Gerade in dem ... Verhältnis 前置，形成主語後置結構，有限動詞 liegt 仍維持 V2。
+    主語：die Ernstnahme der privatrechtlichen Eigenlogik 位於 Mittelfeld，說明真正位置。
+    Nachfeld：包含關係從句 die sich gegen ... sperrt und nur ... zulässt，對 Eigenlogik 作進一步闡述。
+  關係從句細節
+    引導詞：die 指回 Eigenlogik。
+    並列謂語：sperrt sich ... 與 zulässt 透過連詞 und 並列，第二個謂語攜帶副詞 nur 與賓語 Korrekturen ...。
+    介詞短語：gegen ein flächendeckendes Angemessenheitsdenken 表達排拒對象；im Einzelfall 說明例外條件。
+  語用推進
+    第一主句設定研究任務，第二主句提供論證重心：在規則／例外的框架裡看見私法的自我約束。
+
+  核心概念對應：
+    Ausstrahlungskonstruktion → 憲法基本權對私法的外射效力理論
+    Generalklauseln → 民法第138、242條等一般條款
+    Regel-Ausnahme-Verhältnis → 法律體系中原則與例外的關係
+
+語法與詞彙解析
+
+#### 2.1 動詞解析
+
+動詞形式：geht es ... um；原形：gehen；類型：慣用動詞結構；意義：涉及、關於；格要求：Akk.（透過介詞 um）；可分性：否；例句：Es geht um die Frage.（問題在於…）
+動詞形式：verstehen；原形：verstehen；類型：不及物動詞（zu-不定式）；意義：理解；格要求：Akk.；可分性：否；例句：Er versucht zu verstehen.
+動詞形式：stützen (sich auf)；原形：stützen；類型：反身動詞 + 介詞短語；意義：依據、建立於；格要求：Akk. (auf + Akk.)；可分性：否；例句：Er stützt sich auf das Gesetz.
+動詞形式：liegen；原形：liegen；類型：不及物動詞；意義：位於、存在於；格要求：Dat.；可分性：否；例句：Die Ursache liegt im System.
+動詞形式：sperren (sich gegen)；原形：sperren；類型：反身動詞；意義：抵抗、排斥；格要求：Akk. (gegen + Akk.)；可分性：否；例句：Er sperrt sich gegen Änderungen.
+動詞形式：zulassen；原形：zulassen；類型：可分動詞；意義：允許；格要求：Akk.；可分性：是；例句：Das Recht lässt Ausnahmen zu.
+
+#### 2.2 名詞解析（變格與原形）
+
+變格形式：die Ausstrahlungskonstruktion；原形（主格）：die Ausstrahlungskonstruktion；性：陰性；數：單數；格：主格（Nominativ）；解釋：杜里希提出的基本權外射理論
+變格形式：die Generalklauseln；原形（主格）：die Generalklausel；性：陰性；數：複數；格：屬格（Genitiv）；解釋：私法一般條款（如 §138, §242 BGB）
+變格形式：das Privatrecht；原形（主格）：das Privatrecht；性：中性；數：單數；格：屬格（Genitiv）；解釋：私法
+變格形式：das Regel-Ausnahme-Verhältnis；原形（主格）：das Regel-Ausnahme-Verhältnis；性：中性；數：單數；格：主格（Nominativ）；解釋：原則與例外關係
+變格形式：die Eigenlogik；原形（主格）：die Eigenlogik；性：陰性；數：單數；格：主格（Nominativ）；解釋：自有邏輯、內在邏輯
+變格形式：die Korrekturen；原形（主格）：die Korrektur；性：陰性；數：複數；格：Akkusativ；解釋：修正、調整
+
+#### 2.3 介詞短語解析
+
+介詞短語：auf die Generalklauseln (stützen)；格：Akk.；意義：依據於一般條款；例句：Er stützt sich auf §242 BGB.
+介詞短語：gegen ein flächendeckendes Angemessenheitsdenken；格：Akk.；意義：抵抗全面妥當性思維；例句：Das System sperrt sich gegen solche Vereinheitlichung.
+介詞短語：im Einzelfall；格：Dat.；意義：在個案中；例句：Im Einzelfall ist eine Korrektur möglich.
+
+#### 2.4 形容詞與副詞解析
+
+詞彙：zunächst；原形：zunächst；詞性：副詞；功能：表順序；解釋：首先、起初；例句：Zunächst geht es um die Grundlagen.
+詞彙：gerade；原形：gerade；詞性：副詞；功能：強調焦點；解釋：正是、恰恰；例句：Gerade dieser Punkt ist wichtig.
+詞彙：wesentlich；原形：wesentlich；詞性：形容詞；功能：修飾 Richtiges；解釋：重要的、本質的；例句：Ein wesentlicher Bestandteil.
+
+Rn. 09.3
+
+句子結構解析
+
+  句型類別：主句 + 同位語解釋結構
+  語態：主動語態
+  語氣：陳述語氣（Indikativ）
+  句法說明：
+    heißt 為主句的核心謂語（第三人稱單數）。
+    Im Einzelfall 為狀語，置於句首以強調「僅限於個案」。
+    冒號後為說明性列舉，三個並列否定短語，皆為「在何種情況下不成立」。
+
+  語序與句型
+    採 V2 陳述句：句首狀語 Im Einzelfall 佔據前場，有限動詞 heißt 置於第二位置。
+  句子框架（Satzklammer）
+    前括號為 heißt，後括號因缺少其他動詞部分而空，但冒號後的列舉視為 Nachfeld 補語。
+  述補結構
+    述語 heißt 需補足語，該補語以三個平行否定短語呈現，逐一排除一般化、系統化與全面滲透式適用。
+  冒號後列舉
+    元素 1：nicht im Regelfall——否定例外→常態化。
+    元素 2：nicht systematisch——拒絕建立一般性操作模式。
+    元素 3：nicht unter Ausrollung ... hinein——以比喻描繪不可將「基本權地毯」全面鋪入私法價值邏輯。
+  介詞群的內部結構（元素 3）
+    介詞 unter 引出名詞 Ausrollung；屬格片語 eines flächendeckenden Grundrechtsteppichs 指涉過度擴張的框架。
+    動向補語 in die privatrechtliche Wertungslogik hinein 表明潛在侵入的方向。
+  語用功能
+    透過三層否定，作者收斂「個案修正」的適用外延，將焦點鎖定於例外情境下的謹慎介入。
+
+  主語（Subjekt）：隱含，語義主語為「Im Einzelfall」
+  謂語原形（Prädikat）：heißen（意味著）
+  否定結構：三重 nicht 對應三個排除範疇
+
+語法與詞彙解析
+
+#### 2.1 動詞解析
+
+動詞形式：heißt；原形：heißen；類型：及物動詞；意義：意指、意味著；格要求：Akk.（可省略）；可分性：否；例句：„Privatautonomie“ heißt Selbstbestimmung im Privatrecht.
+
+#### 2.2 名詞解析（變格與原形）
+
+變格形式：der Einzelfall；原形（主格）：der Einzelfall；性：陽性；數：單數；格：與格（Dativ, im Einzelfall）；解釋：個案
+變格形式：der Regelfall；原形（主格）：der Regelfall；性：陽性；數：單數；格：與格（Dativ, im Regelfall）；解釋：一般情況
+變格形式：die Ausrollung；原形（主格）：die Ausrollung；性：陰性；數：單數；格：與格（Dativ, unter Ausrollung）；解釋：展開、鋪開
+變格形式：der Grundrechtsteppich；原形（主格）：der Grundrechtsteppich；性：陽性；數：單數；格：屬格（Genitiv, eines ... Grundrechtsteppichs）；解釋：基本權之地毯（比喻）
+變格形式：die Wertungslogik；原形（主格）：die Wertungslogik；性：陰性；數：單數；格：賓格（Akk., in ... hinein）；解釋：評價邏輯、價值體系
+
+#### 2.3 介詞短語解析
+
+介詞短語：im Einzelfall；格：Dativ；意義：在個案中；語法功能：限定適用範圍
+介詞短語：im Regelfall；格：Dativ；意義：在一般情況下；語法功能：與前者對比
+介詞短語：unter Ausrollung ...；格：Dativ；意義：以展開方式（比喻性）；語法功能：描述手段
+介詞短語：in die ... Wertungslogik hinein；格：Akk.；意義：向內滲入；語法功能：動向補語（方向性介詞短語）
+
+#### 2.4 形容詞與副詞解析
+
+詞彙：flächendeckend；原形：flächendeckend；詞性：形容詞；功能：修飾 Grundrechtsteppich；解釋：全面覆蓋的、普及的；例句：eine flächendeckende Regelung（全面規定）
+詞彙：systematisch；原形：systematisch；詞性：副詞；功能：修飾否定範疇；解釋：系統性地；例句：nicht systematisch vorgehen（不以系統性方式進行）
+
+Rn. 09.4
+
+句子結構解析
+
+  句型類別：主句 + 比較短語
+  語態：主動語態
+  語氣：假設/推測語氣（Konjunktiv II：könnte）
+  句法說明：
+    主要結構：Man könnte ... bezeichnen（可以稱之為…）。
+    dieses Regel-Ausnahme-Verhältnis 為受詞。
+    als Wertungssperre ... 為表語（Prädikativ）。
+    ähnlich dem strafrechtlichen Analogieverbot 為比較結構（介詞短語，Dativ）。
+
+  語序與句型
+    V2 主句：主語 Man 佔據前場，有限動詞 könnte 位於第二位置，構成虛擬式 II 的推測語氣。
+  句子框架（Satzklammer）
+    前括號：情態動詞 könnte；後括號：不定式 bezeichnen，其間夾入賓語與表語。
+  核心參與者
+    主語：Man，泛指評述者。
+    賓語（Akkusativobjekt）：dieses Regel-Ausnahme-Verhältnis，被賦予新評價的對象。
+  表語結構
+    介詞片語 als Wertungssperre der privatrechtlichen Systemlogik 充當 Prädikativ，界定賓語的新類屬。
+    名詞 Wertungssperre 再配以屬格補語 der privatrechtlichen Systemlogik 說明其所屬體系。
+  比較補語
+    逗號後的 ähnlich dem strafrechtlichen Analogieverbot 為 Dativ 介詞片語，作為附加比較成分（Supplement），與主謂結構鬆散連接。
+    透過 ähnlich，句子引入跨領域類比，加強「價值封鎖」的法理權威。
+  語用效果
+    虛擬式 II 降低斷言力度，呈現謹慎提議；同時以類比拉近私法與刑法邏輯的距離。
+
+語法與詞彙解析
+
+#### 2.1 動詞解析
+
+動詞形式：könnte bezeichnen；原形：bezeichnen + können；類型：情態動詞結構（Konjunktiv II）；意義：可以稱為、可視作；格要求：Akk. + als + Akk.；可分性：否；例句：Man könnte das als Verstoß bezeichnen.（這可視為一種違反。）
+
+#### 2.2 名詞解析（變格與原形）
+
+變格形式：das Regel-Ausnahme-Verhältnis；原形（主格）：das Regel-Ausnahme-Verhältnis；性：中性；數：單數；格：受格（Akk.）；解釋：原則與例外關係
+變格形式：die Wertungssperre；原形（主格）：die Wertungssperre；性：陰性；數：單數；格：主格（Nominativ）；解釋：價值判斷禁止、價值封鎖
+變格形式：die Systemlogik；原形（主格）：die Systemlogik；性：陰性；數：單數；格：屬格（Genitiv）；解釋：體系邏輯
+變格形式：das Analogieverbot；原形（主格）：das Analogieverbot；性：中性；數：單數；格：與格（Dativ，介詞 ähnlich 要求 Dativ）；解釋：類推禁止（刑法原則）
+
+#### 2.3 介詞短語解析
+
+介詞短語：als Wertungssperre ...；格：Akk.（作表語）；意義：視為…；例句：Er bezeichnet das als Fehler.
+介詞短語：ähnlich dem ... Analogieverbot；格：Dativ；意義：類似於…；例句：Die Regel ist ähnlich dem Verbot.
+
+#### 2.4 形容詞與副詞解析
+
+詞彙：geradezu；原形：geradezu；詞性：副詞；功能：強化語氣；解釋：幾乎、簡直；例句：Das ist geradezu absurd.（那簡直荒謬。）
+詞彙：privatrechtlich；原形：privatrechtlich；詞性：形容詞；功能：修飾 Systemlogik；解釋：私法上的；例句：die privatrechtliche Ordnung（私法秩序）
+詞彙：strafrechtlich；原形：strafrechtlich；詞性：形容詞；功能：修飾 Analogieverbot；解釋：刑法上的；例句：das strafrechtliche Prinzip（刑法原則）
+
+Rn. 09.5
+
+句子結構解析
+
+  句型類別：條件句 + 主句 + 限制性補語 + 比喻性從句 + 原因從句
+  語態：主動語態
+  語氣：陳述語氣（Indikativ）
+  句法分層說明：
+
+  宏觀結構
+    條件從句 → 主句 → 比較結構 → wie-例示從句 → 原因從句，逐層收斂並強化限制語氣。
+  條件從句（Voraussetzung）
+    Nimmt man diesen Gedanken ernst 採 V2 語序；有限動詞 nimmt 前移，主語 man 位於 Mittelfeld，可分前綴 ernst 收束於句末。
+    條件內容：若真誠地採納此一理念。
+  主句核心
+    Satzklammer：kann（情態）＋gehen（不定式）。
+    主語：ein privatrechtsadäquater Zugriff auf grundrechtliche Wertprinzipien，複合名詞片語帶有介詞組 auf ... 指明介入對象。
+    範圍狀語：im Rahmen der Generalklauseln 插入 Mittelfeld，限制適用範圍。
+  比較上限（als-Segment）
+    nicht weiter gehen als ... 設定量尺上限。
+    參照語：der allgemeine Zugriff auf privatrechtsrechtsexternes Werten，以屬格複合名詞刻畫私法外部的價值資源。
+  例示性 wie-從句
+    also etwa so weit, wie klassische Judikate zu §138 Abs.1 BGB ... zulassen 位於 Nachfeld提供具體參考。
+    內部結構：主語 klassische Judikate ...，謂語 zulassen，賓語 den Verweis auf das „Anstandsgefühl ...“；副詞 etwa 表近似值。
+  原因從句（weil-Segment）
+    語序為從屬句：連詞 weil + 主語 man + 反身動詞組 sich ... zurechtkonstruieren muss。
+    裏層描述：概念 einen gefühlten Anstand 前置於動詞前；副詞 offensichtlich、so schlank wie möglich 說明構造時的謹慎。
+    隨後的被動結構 wenn ... die Notbremse gezogen werden muss 再補充觸發條件。
+  語用節奏
+    句子透過條件語氣引出前提，主句給出限制，再用比較和案例具體化，最後以原因從句凸顯「例外且慎用」的態度。
+
+語法與詞彙解析
+
+#### 2.1 動詞解析
+
+動詞形式：nimmt ... ernst；原形：ernst nehmen；類型：可分動詞短語；意義：認真看待；格要求：Akk.；可分性：是；例句：Man muss das Argument ernst nehmen.
+動詞形式：kann ... gehen；原形：gehen；類型：不及物動詞 + 情態動詞；意義：可以延伸、達到（比喻）；格要求：無；可分性：否；例句：Das darf nicht weiter gehen.
+動詞形式：zulassen；原形：zulassen；類型：可分動詞；意義：允許、容許；格要求：Akk.；可分性：是；例句：Das Gesetz lässt Ausnahmen zu.
+動詞形式：zurechtkonstruieren；原形：zurechtkonstruieren；類型：可分動詞；意義：勉強構造出；格要求：Akk.；可分性：是；例句：Er hat das Konzept zurechtkonstruiert.
+動詞形式：muss ... gezogen werden；原形：ziehen（被動）；類型：動態被動（Vorgangspassiv）；意義：被拉下、被啟動；格要求：Akk.；可分性：否；例句：Die Notbremse muss gezogen werden.
+
+  語法特徵：
+    存在 被動語態 (muss ... gezogen werden)。
+    情態動詞 können, müssen 皆為核心句義支撐。
+    可分動詞多（ernst nehmen, zulassen, zurechtkonstruieren）。
+
+#### 2.2 名詞解析（變格與原形）
+
+變格形式：der Zugriff；原形（主格）：der Zugriff；性：陽性；數：單數；格：主格（Nominativ）；解釋：介入、接近、運用
+變格形式：die Wertprinzipien；原形（主格）：das Wertprinzip；性：中性；數：複數；格：屬格（Genitiv）；解釋：價值原則
+變格形式：die Generalklauseln；原形（主格）：die Generalklausel；性：陰性；數：複數；格：屬格（Genitiv）；解釋：一般條款
+變格形式：§138 Abs.1 BGB；原形（主格）：—；性：法規引文；數：無；格：無；解釋：德國民法第138條第1款（違反善良風俗者無效）
+變格形式：das Anstandsgefühl ...；原形（主格）：das Anstandsgefühl；性：中性；數：單數；格：賓格（Akk.）；解釋：道德感、禮俗感
+變格形式：die Notbremse；原形（主格）：die Notbremse；性：陰性；數：單數；格：主格（Nominativ）；解釋：緊急剎車，比喻緊急干預
+
+#### 2.3 介詞短語解析
+
+介詞短語：im Rahmen von ...；格：Genitiv；意義：在…範圍內；例句：im Rahmen der Generalklauseln（在一般條款範圍內）
+介詞短語：auf grundrechtliche Wertprinzipien；格：Akk.；意義：針對、關於基本權價值原則；例句：zugreifen auf ...（介入、運用）
+介詞短語：im Privatrecht；格：Dativ；意義：在私法中；例句：Im Privatrecht gilt Vertragsfreiheit.
+
+#### 2.4 形容詞與副詞解析
+
+詞彙：privatrechtsadäquat；原形：privatrechtsadäquat；詞性：形容詞；功能：修飾 Zugriff；解釋：符合私法性質的；例句：Ein privatrechtsadäquater Ansatz.
+詞彙：grundrechtlich；原形：grundrechtlich；詞性：形容詞；功能：修飾 Wertprinzipien；解釋：基本權相關的；例句：grundrechtliche Bindung
+詞彙：ad hoc；原形：ad hoc；詞性：拉丁語副詞；功能：臨時地、特設地；解釋：eine ad hoc Entscheidung（臨時決定）；例句：
+詞彙：dubios；原形：dubios；詞性：形容詞；功能：修飾 Anstand；解釋：可疑的、模糊的；例句：eine dubiose Grundlage（可疑基礎）

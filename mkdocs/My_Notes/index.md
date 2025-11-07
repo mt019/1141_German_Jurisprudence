@@ -260,3 +260,33 @@ ihm gehört eine Ohrfeige
 注意：這門課請大家盡量出席
 
 
+
+
+### W05 1003
+
+
+
+投票
+
+10.31 開始看下一篇
+
+
+
+Wolfgang Ernst*
+Wandlungen der Vertragstypenordnung
+
+一樣按照Rn 分組功課
+
+
+
+
+### W09 1031
+
+進入Ernst
+
+句型結構相比Auer較為簡單一些
+
+老師說，進度會開始比較快，所以課前的準備功課的進度也要響應做好準備
+
+
+

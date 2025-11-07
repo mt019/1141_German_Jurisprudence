@@ -1,0 +1,191 @@
+                                                                                    1
+                                               114-1  德文法學名著選讀 
+                                                                                                             王逸帆 
+               Rn. 09 
+                      Stellen wir die naheliegende Frage,   
+                        warum man als Gesellschaft eine solche normativ unterdeterminierte 
+                        Privatrechtsordnung überhaupt haben wollen sollte,   
+                      an dieser Stelle zurück. 
+                       
+                      我們暫且擱置一下這個顯而易見的問題：作為一個社會，為什麼要擁有一個如此在
+                      規範上未被充分確定的私法秩序？ 
+                       
+                                  謂語動詞
+                      主詞  ｜                    ｜  Akk.  |    Dativ  |    Gen.   
+                      l  謂語結構                                         l  die naheliegende Frage：顯而易見的
+                      l  Stellen wir ... zurück：                           問題 
+                      l  可分動詞 zurückstellen（                          l  man als Gesellschaft：作為整個社會
+                           n  意為「擱置、延後」                                    的人們 
+                           n  此處為祈使語氣第一人稱複數 l  die Privatrechtsordnung：私法秩序 
+                                形式                                    l  normativ：規範層面的 
+                           n  Wir stellen die Frage zurück.           l  unterdeterminiert：不充分確定的 
+                      l  從句作受詞補語                                      l  überhaupt：根本、究竟 
+                      l  引導詞 warum                                     
+                      l  warum man als Gesellschaft eine 
+                           solche normativ unterdeterminierte 
+                           Privatrechtsordnung überhaupt haben 
+                           wollen sollte 
+                      l  狀語：an dieser Stelle，此刻、此處 
+                                               
+                                               
+               1 本文檔藉助AI（ChatGPT）輔助翻譯解析。 
+                
+                                                                                                                    1 
+                    Zunächst geht es nur darum, zu verstehen, warum vor diesem Hintergrund gerade Dürigs 
+                    Ausstrahlungskonstruktion, die sich gezielt nur auf die Generalklauseln des Privatrechts 
+                    stützt, ein Richtiges, ja Wesentliches trifft:   
+                    Gerade in dem [durch Zuspitzung auf die Generalklauseln als genuin privatrechtliche 
+                    Gestaltungsgrenze vorausgesetzten] Regel-Ausnahme-Verhältnis liegt nämlich die 
+                    Ernstnahme der privatrechtlichen Eigenlogik, die sich gegen ein flächendeckendes 
+                    Angemessenheitsdenken sperrt und nur im Einzelfall Korrekturen unangemessener 
+                    Privatrechtsgestaltungen zulässt. 
+                     
+                     
+                    此處首先僅在於理解，在這樣的背景下，為什麼正是杜里希（Dürig）所提出的「基
+                    本權效力放射構造」（Ausstrahlungskonstruktion），也就是只建立在私法的一般條款
+                    上的理論，能夠抓住正確且關鍵的核心要點。 
+                    因為在以一般條款作為真正的私法界限所預設的「原則—例外」關係中，體現了對
+                    私法自有邏輯的尊重——這種邏輯排斥全面的妥當性的思維，只在個案中允許對不
+                    當的私法結果作修正。 
+                     
+                                謂語動詞
+                    主詞  ｜                   ｜  Akk.  |    Dativ  |    Gen.   
+                    l  主句 I：Zunächst geht es nur                 l  die Ausstrahlungskonstruktion： 
+                         darum ...                                    n  （杜里希提出的）基本權放射/
+                         n  Zunächst  首先，重點在                               輻射理論 
+                         n  geht es ... um：涉及、在於                 l  die Generalklausel：一般條款 
+                         n  zu verstehen, warum ...              l  das Privatrecht：私法 
+                              u  vor diesem Hintergrund：在        l  ein Richtiges, ja Wesentliches：名詞
+                                   這樣的背景下                             化的形容詞，表示「某種正確乃至
+                              u  gerade正是，恰恰是                         關鍵的事物 
+                              u  Dürigs                          l  die Zuspitzung：集中 
+                                   Ausstrahlungskonstruktion,    l  die Gestaltungsgrenze：界限 
+                                   die sich stützen auf + Akk.   l  vorausgesetzten：PII 作形容詞，所
+                                   l  sich stützen auf +              預設的 
+                                       Akk.：反身動詞，意               l  das Regel-Ausnahme-Verhältnis：原
+                                       為「依據、建立                        則與例外關係 
+                                       在……之上」                    l  die Ernstnahme：「認真對待」（尊
+                              u  trifft：                              重）；源自 ernst nehmen 的名詞
+                                   l  treffen + Akk.：命中、              化。 
+                                       觸及、把握住（抽象 l  die Eigenlogik：自有邏輯、內在邏
+                                       意義）                            輯 
+                    l  主句 II：Gerade in dem ... liegt ... die     l  ein flächendeckendes 
+                         Ernstnahme ...                               Angemessenheitsdenken： 
+                                                                                                            2 
+                          n  liegen in + Dativ：嚴肅對待體現                    n  flächendeckend：全面的 
+                               在…關係中                                     n  適當性的思維 
+                          n  die Ernstnahme der                     l  nur im Einzelfall：僅在個別情況下，
+                               privatrechtlichen Eigenlogik              個案 
+                               u  die Eigenlogik, die sich …        l  die Korrektur：解釋：修正、調整 
+                                    sperrt                          l  die Privrechtsgestaltung：私法設計 
+                                    l  sich sperren gegen +              n  unangemessen：不適當的 
+                                         Akk.：反對、排斥                  
+                               u  nur im Einzelfall ... zulässt 
+                                    l  zulassen：允許 
+                          n  durch Zuspitzung auf die 
+                               Generalklauseln:  經由集中於一
+                               般條款 
+                          n  als genuin privatrechtliche 
+                               Gestaltungsgrenze 
+                               vorausgesetzten：作為真正意義
+                               上的私法界限而被預設的 
+                          n  in dem durch... vorausgesetzten 
+                               Verhältnis：在那個由……所預
+                               設的關係之中 
+                     Im Einzelfall heißt: nicht im Regelfall, nicht systematisch und nicht unter Ausrollung eines 
+                     flächendeckenden Grundrechtsteppichs in die privatrechtliche Wertungslogik hinein. 
+                      
+                     在個案中，這意味著：並非在一般情況下，並非以系統化方式，也並非將一張全面
+                     鋪開的基本權地毯延伸至私法的價值邏輯之中。 
+                      
+                                  謂語動詞
+                     主詞  ｜                    ｜  Akk.  |    Dativ  |    Gen.   
+                     l  Im Einzelfall：「在個別情況下」介詞 l  der Regelfall：一般情況 
+                          短語作為主語                                    l  die Ausrollung：展開 
+                     l  Heißen：意味著                                  l  flächendeckend：平鋪展開的 
+                     l  nicht unter Ausrollung ...in die …          l  der Grundrechtsteppich：基本權地毯 
+                          hinein                                    l  die privatrechtliche Wertungslogik：私
+                          n  in die privatrechtliche                     法的價值邏輯 
+                               Wertungslogik hinein  表明鋪展
+                               （侵入）的方向。 
+                          n  hinein：副詞，向內 
+                                              
+                                                                                                                 3 
+                 Man könnte dieses Regel-Ausnahme-Verhältnis geradezu als Wertungssperre der 
+                 privatrechtlichen Systemlogik bezeichnen, ähnlich dem strafrechtlichen Analogieverbot. 
+                  
+                 可以說，這種原則與例外的關係幾乎可被視為一種私法體系邏輯的「價值判斷禁
+                 止」，類似於刑法中的類推禁止原則。 
+                  
+                            謂語動詞
+                 主詞  ｜                ｜  Akk.  |    Dativ  |    Gen.   
+                 l  bezeichnen …als…：將…稱為，視             l  die Systemlogik：體系邏輯 
+                      為…                                l  das Analogieverbot：類推禁止 
+                 l  geradezu：幾乎，簡直                      l  strafrechtlich：刑法上的 
+                 l  ähnlich：類似於                          
+                 Nimmt man diesen Gedanken ernst, kann ein privatrechtsadäquater Zugriff auf 
+                 grundrechtliche Wertprinzipien im Rahmen der Generalklauseln allerdings nicht weiter 
+                 gehen als der allgemeine Zugriff auf privatrechtsrechtsexternes Werten im Rahmen dieser 
+                 Öffnungsklauseln,   
+                 also etwa so weit, wie klassische Judikate zu § 138 Abs. 1 BGB den Verweis auf das 
+                 „Anstandsgefühl aller billig und gerecht Denkenden“ zulassen: sehr vorsichtig, sehr ad 
+                 hoc,   
+                 weil man sich etwas normativ so Dubioses wie einen gefühlten Anstand offensichtlich so 
+                 schlank wie möglich zurechtkonstruieren muss, wenn im Privatrecht ausnahmsweise 
+                 einmal die Notbremse gezogen werden muss. 
+                  
+                 如果認真對待這個想法，那麼對於基本權價值原則的私法適當性介入，在一般條款
+                 範圍內，其程度不得超出其他非私法價值在這些開放條款中的通常適用範圍。 
+                 也就是說，這種介入只能像關於民法第138條第1款的經典判例中那樣謹慎地引用
+                 「所有正直且公正思考之人之道德感」——極為謹慎、個案性地運用， 
+                 因為像「感覺上的道德感」這種規範上不確定的概念，只能以最節制的方式被構造
+                 出來，（而這僅）在私法中例外地需要拉下緊急剎車時（才允許）。 
+                  
+                  
+                            謂語結構
+                 主詞  ｜                ｜  Akk.  |    Dativ  |    Gen.   
+                 條件從句 → 主句 → 比較結構 → wie- l  privatrechtsadäquat：私法適當性的 
+                 例示從句 → 原因從句                            l  der Zugriff：介入 
+                 l  Nimmt man diesen Gedanken ernst：    l  zugreifen auf Akk...（對於…的介入 
+                      若人們認真對待這個想法，條件從 l  grundrechtlich：基本權相關的 
+                      句（省略連詞 wenn）                      l  die Wertprinzipien：價值原則 
+                      n  etwas ernst nehmen：固定短         l  im Rahmen der Generalklauseln：在
+                          語：「認真對待某事」                        一般條款範圍內 
+                 l  kann …nicht weiter gehen als …：不    l  allgemein：一般的，普遍的 
+                                                                                             4 
+                         能超出…                                     l  privatrechtsrechtsexternes Werten： 
+                    l  etwa so weit, wie…：大約就和……                       n  privatrechts-externes：私法外部
+                         相同                                                 的 
+                    l  den Verweis auf … zulasse：允許                    n  das Werten：價值 
+                         對……的引用                                        n  非私法的價值 
+                    l  Anstandsgefühl aller billig und gerecht    l  im Rahmen dieser Öffnungsklauseln：
+                         Denkenden：                                    在這些開放性條款的範圍內 
+                         n  一切公平而正直之人的體面                          l  klassische Judikate：傳統判例 
+                              感、體面感                               l  zu § 138 Abs. 1 BGB：關於《民法
+                         n  所有理性公正思考者的誠信情                              典》第138條第1款，善良風俗之
+                              感（楊宏暉）                                   違反 
+                         n  任何公平正派的人士所具有的 l  die Verweise：引用 
+                              分寸感（顧祝軒）                            l  das Anstandsgefühl：體面感，道德
+                         n  所有公平正義思考者的禮儀觀                              感，道義感，分寸感？ 
+                              念（朱慶育）                                   n  billig und gerecht：公平正直正
+                         n  所有具備公平正義思維者之道                                   派的 
+                              德感受（蕭如儀）                                 n  die Denkenden，思考者（此處
+                    l  weil：因為                                              指具有理性與正義感之人） 
+                    l  man                                        l  sehr vorsichtig, sehr ad hoc 
+                    l  sich … zurechtkonstruieren：（勉強，                 n  vorsichtig：小心謹慎 
+                         強行）建構，構造                                      n  ad hoc：個案適用 
+                    l  wenn …：若，當…                                l  normativ：規範上 
+                    l  die Notbremse …gezogen werden              l  etwas so Dubioses wie …：如…般不
+                         muss：緊急煞車必須被拉動                                確定的東西 
+                         n  ziehen：拉                                   n  so Dubioses：不確定的，可疑
+                                                                            的 
+                                                                  l  ein gefühlter Anstand：一種道德感、
+                                                                       分寸感、體面感 
+                                                                  l  offensichtlich：顯然易見地 
+                                                                  l  so schlank wie möglich：盡可能節制 
+                                                                  l  ausnahmsweise：例外地 
+                                                                  l  einmal：一次 
+                                                                  l   
+                     
+               
+                                                                                                             5 
