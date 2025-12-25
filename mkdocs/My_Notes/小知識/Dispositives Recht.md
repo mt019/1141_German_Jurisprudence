@@ -10,7 +10,7 @@
 
 > 📘「當事人得透過協議排除或修改的法律規定。」
 
-它屬於法律中的**任意性規範（nicht zwingendes Recht）**，與強制性規範（**zwingendes Recht**）相對。
+它屬於法律中的**任意性規範【任意規定】（nicht zwingendes Recht）**，與強制性規範（**zwingendes Recht**）相對。
 
 ---
 

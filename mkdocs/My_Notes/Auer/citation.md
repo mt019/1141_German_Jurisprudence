@@ -21,7 +21,7 @@ tags:
 ## **Fn. 2**
 
 **原文**  
-*Mayer, Verwaltungsrecht, Bd. 1, 3. Aufl. 1924, VI.*
+*Mayer, Verwaltungsrecht, Bd. 1, 3. Aufl. 1924, VI.
 
 **翻譯**  
 梅耶，《行政法》，第1卷，第3版，1924年，序頁第VI頁（羅馬數字）。
@@ -51,7 +51,7 @@ tags:
 ## **Fn. 3**
 
 **原文**  
-*Zu dieser Beobachtung auch Haferkamp AcP 225 (2025), 76 ff., unter X. (in diesem Heft); vgl. auch ders., Wege zur Rechtsgeschichte: Das BGB, 2022, 381. Eine Ausnahme bildet eine Vorlesungsreihe an der Universität Münster im Wintersemester 2024/25; vgl. Jansen / Lohsse (Hg.), 125 Jahre BGB. Kodifikation und Wissenschaft, 2025. Zum Grundgesetzjubiläum etwa Hofmann (Hg.), Zeiten der Bewährung. FS 75 Jahre Grundgesetz, 2024.*
+*Zu dieser Beobachtung auch Haferkamp AcP 225 (2025), 76 ff., unter X. (in diesem Heft); vgl. auch ders., Wege zur Rechtsgeschichte: Das BGB, 2022, 381. Eine Ausnahme bildet eine Vorlesungsreihe an der Universität Münster im Wintersemester 2024/25; vgl. Jansen / Lohsse (Hg.), 125 Jahre BGB. Kodifikation und Wissenschaft, 2025. Zum Grundgesetzjubiläum etwa Hofmann (Hg.), Zeiten der Bewährung. FS 75 Jahre Grundgesetz, 2024.
 
 **翻譯**  
 關於此一觀察，亦可參見 Haferkamp（《學報》AcP 第225卷，2025年，76頁以下，本刊本期第X節）；另參同作者《通往法律史之路：民法典》，2022年，第381頁。例外情形為明斯特大學2024/25冬學期的一系列講座；參見 Jansen / Lohsse（主編），《民法典125年：法典化與學術》，2025年。至於基本法周年，可參 Hofmann（主編），《考驗之時：慶祝基本法75年文集》，2024年。
@@ -89,7 +89,7 @@ tags:
 ## **Fn. 4**
 
 **原文**  
-*Grundlegend BVerfGE 7, 198 – Lüth; 81, 242 – Handelsvertreter; 89, 214 – Bürgschaft.*
+*Grundlegend BVerfGE 7, 198 – Lüth; 81, 242 – Handelsvertreter; 89, 214 – Bürgschaft.
 
 **翻譯**  
 具有基礎性意義的憲法法院判決：BVerfGE 第7卷198頁——*Lüth*；第81卷242頁——「商業代理人」；第89卷214頁——「保證」。
@@ -121,7 +121,7 @@ tags:
 ## **Fn. 5**
 
 **原文**  
-*BVerfGE 128, 226 – Fraport; BVerfG NJW 2015, 2485 – Bierdosen-Flashmob; BVerfGE 148, 267 – Stadionverbot; in der Folge etwa BGHZ 230, 347 – Facebook-Account.*
+*BVerfGE 128, 226 – Fraport; BVerfG NJW 2015, 2485 – Bierdosen-Flashmob; BVerfGE 148, 267 – Stadionverbot; in der Folge etwa BGHZ 230, 347 – Facebook-Account.
 
 **翻譯**  
 BVerfGE 第128卷226頁——*Fraport*；聯邦憲法法院，NJW 2015年第2485頁——「啤酒罐快閃」；BVerfGE 第148卷267頁——「球場禁令」；其後影響之一為 BGHZ 第230卷347頁——「Facebook 帳號」案。
