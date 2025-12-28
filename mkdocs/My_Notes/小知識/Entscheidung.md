@@ -30,4 +30,4 @@
 
 - 建議閱讀 **Entscheidungssammlungen**（判例彙編），如 BVerfGE、BGHZ、BAGE，以熟悉引用規格與裁判架構。  
 - 在撰寫案例註解（Fallnote、Anmerkung）時，先掌握 Entscheidung 的程序性背景，再討論其對實體法的貢獻。  
-- 比較德法、歐盟法院（EuGH）及歐洲人權法院（EGMR）的裁判用語，可加深對跨法域引用的敏感度。  
+- 比較德法、歐盟法院（EuGH）及歐洲人權法院（EGMR）的裁判用語，可加深對跨法域引用的敏感度。

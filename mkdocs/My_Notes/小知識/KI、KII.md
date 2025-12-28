@@ -2,6 +2,7 @@
 title: "Konjunktiv I (KI) & Konjunktiv II (KII)"
 description: "主要功能： 轉述（indirekte Rede） Direkte Rede: Er sagt: „Ich bin krank.“ → 他說：「我生病了。」"
 tags:
+
   - "小知識"
   - "法學語料"
   - "KI、KII"
@@ -14,6 +15,7 @@ tags:
 
 - **主要功能**：  
   1. **轉述（indirekte Rede）**  
+
      - Direkte Rede: *Er sagt: „Ich bin krank.“*  
        → 他說：「我生病了。」  
 
@@ -21,6 +23,7 @@ tags:
        → 他說他生病。（使用 KI → sei）  
 
   2. **祈使語氣 / 願望（Aufforderung, Wunsch）**  
+
      - 多用於書面、正式或古典語氣，相當於「願…」「就讓…」。  
      - 例子：  
        - *Es **lebe** die Freiheit!*  
@@ -37,7 +40,6 @@ tags:
 ## 2. Konjunktiv II (KII)
 
 - **主要功能**：假設（Irrealis）、委婉（Höflichkeit）  
-
 - **例子（委婉）**：  
   - *Ich **hätte** gern einen Kaffee.*  
     → 我要一杯咖啡。（禮貌）  
@@ -59,6 +61,3 @@ tags:
 |------|------|------|
 | **KI** | 轉述、祈使/願望 | *Er sagte, er **sei** krank.* / *Es **lebe** der König!* |
 | **KII** | 假設、非現實、禮貌 | *Ich **hätte** gern einen Kaffee.* / *Wenn ich Zeit **hätte**, **würde** ich reisen.* |
-
-
-

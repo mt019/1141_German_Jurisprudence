@@ -60,8 +60,10 @@
 
 - *Im Allgemeinen gilt das Prinzip der Vertragsfreiheit.*  
   （一般而言，契約自由原則適用。）
+
 - *Das allgemeine Persönlichkeitsrecht schützt die gesamte Persönlichkeit.*  
   （一般人格權保護個人整體人格。）
+
 - *Allgemeine Gesetze binden jedermann, sofern sie verfassungsgemäß sind.*  
   （普通法在符憲情況下拘束所有人。）
 

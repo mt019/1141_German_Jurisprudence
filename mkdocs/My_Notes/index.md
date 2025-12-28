@@ -2,12 +2,14 @@
 title: 1141 德文法學課程筆記
 description: "1141 德文法學課程筆記整理國立臺灣大學法學院德文法學課程的逐週筆記、德國民法原文與法律德文關鍵詞，協助快速掌握課堂重點與延伸資料。"
 keywords:
+
   - 德文法學
   - NTU German Jurisprudence
   - 德國民法
   - 法律德文
   - 課程筆記
 tags:
+
   - 課程導覽
   - 資源彙整
 ---
@@ -200,7 +202,6 @@ ihm gehört eine Ohrfeige
 - Archiv für die civilistische Praxis. - 國立臺灣大學
 - Staudinger BGB. - 國立臺灣大學
 - Homepage - beck-online
-
 - 德文文獻接觸/閱讀
   - 老師分享自己的心得：如何解除德文文獻？最籠統的說法：從一篇找下一篇。
   - 從哪裡開始？

@@ -2,6 +2,7 @@
 title: "文首註腳與案件索引（Fn. 2–5）解析"
 description: "原文 Mayer, Verwaltungsrecht, Bd. 1, 3. Aufl. 1924, VI."
 tags:
+
   - "Auer"
   - "德文法學"
   - "citation"

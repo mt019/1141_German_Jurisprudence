@@ -3,17 +3,20 @@
 國立臺灣大學 1141 德文法學課程的筆記、導讀以及延伸資料，搭配德文原文與法律德文語料整理，協助同學與研究者快速掌握民法與基本權的交會脈絡。專案同時提供 MkDocs 靜態網站與 Jupyter Notebook 支援，適合課前預習、課後複習與長期存檔。
 
 ## 快速連結
+
 - 線上筆記網站：<https://mt019.github.io/1141_German_Jurisprudence/>
 - MkDocs 設定檔：`mkdocs/mkdocs.yml`
 - 課程筆記根目錄：`mkdocs/My_Notes/`
 
 ## 專案特色
+
 - 依課程進度整理的逐週導讀與 Rn. 分析，保留老師與同學互動筆記。
 - 德文原文搭配語彙標註、使用情境與中文備註，方便跨語對照。
 - 收錄課堂推薦的期刊、資料庫與延伸閱讀，打造德文法學資料索引。
 - 啟用 MkDocs Material 題材與 SEO 外掛（minify、RSS、git revision date），改善搜尋曝光與閱讀體驗。
 
 ## 系統需求
+
 - Docker 與 Docker Compose v2
 - （可選）Python 3.10 以上與 `pip`，供不透過容器時使用
 
@@ -70,6 +73,7 @@
 ```
 
 ## SEO 與內容維護建議
+
 - 全站描述、作者資訊與社群連結統一於 `mkdocs/mkdocs.yml` 管理，調整後建議重新部署。
 - 透過 Markdown 前置欄位 (`keywords`, `description`) 為重要頁面設定中英關鍵字，以利 RSS 與搜尋引擎擷取。
 - 若要啟用標籤索引，於每篇筆記的 YAML 前置欄位加入 `tags: ["關鍵字"]`，`mkdocs/My_Notes/tags.md` 會自動聚合。
@@ -77,15 +81,18 @@
 - 若需要額外的 SEO 標籤，可在 `mkdocs/My_Notes/overrides/` 內新增對應模板。
 
 ## 發佈與部署
+
 - Docker 模式：
   ```bash
   docker compose run --rm docs build -f mkdocs/mkdocs.yml
   ```
   產生的靜態檔案位於 `site/` 目錄，可直接部署或搭配 CI/CD。
+
 - GitHub Pages：
   ```bash
   mkdocs gh-deploy --clean -f mkdocs/mkdocs.yml
   ```
+
 - 其他靜態網站伺服器：
   ```bash
   mkdocs build -f mkdocs/mkdocs.yml

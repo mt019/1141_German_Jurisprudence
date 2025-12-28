@@ -1,6 +1,7 @@
 # **德文句型教學：sein + zu-Infinitiv 結構全面解析**
 
 **核心句型範例**：  
+
 - *auf das zurückzukommen ist*  
 - *Die Frage ist zu beantworten.*
 
@@ -148,12 +149,3 @@ Subjekt + sein（時態）+ zu + Infinitiv
 - § 242 BGB 中常見 *ist zu ...* 用法  
 - BVerfG 判決語言風格中 *ist festzustellen, dass...*  
 - 法律翻譯實踐中的「義務性語氣」比較
-
-
-
-
-
-
-
-
-
